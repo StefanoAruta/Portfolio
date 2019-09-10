@@ -1,6 +1,6 @@
 body {
     background-color: rgb(34, 34, 34) !important;
-    background-image: url("img/images/bg.jpg");
+    background-image: url("img/images/bg.png");
     background-size: cover; /* Resize the background image to cover the entire container */
     background-attachment: fixed;
     background-position: center;
@@ -29,7 +29,7 @@ body {
     height:calc(100vh - 85.3px);
     background-color: rgb(20, 20, 20);
     */
-    background-image: url("img/images/denpan.jpg");
+    background-image: url("img/images/AnimeClassRoom.jpg");
     background-size: cover; /* Resize the background image to cover the entire container */
     background-attachment: fixed;
     background-position: center; /* Center the image */
